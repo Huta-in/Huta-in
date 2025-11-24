@@ -18,7 +18,8 @@
   
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  <img align="right" alt="Gif" src="https://media1.tenor.com/m/JcxZCfepPXEAAAAd/skirk-skirk-genshin.gif">
+  <img align="right" alt="Gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZueHFuYzUwcThndHl0dGg2ZmZiN2xybm9oeG52OXU1MXlwZHU1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ad1M7tVT6EP4vF6t8t/giphy.gif
+    ">
 
   
 </div>
